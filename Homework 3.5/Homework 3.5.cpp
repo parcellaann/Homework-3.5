@@ -39,5 +39,5 @@ int main()
 		i++;
 	}
 	std::cout << sum << "\n";
-}
+} 
 
